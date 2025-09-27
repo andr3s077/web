@@ -8,4 +8,4 @@ print("Mínimo flotante positivo:", sys.float_info.min)
 print("Precisión de flotante:", sys.float_info.epsilon)
 
 
-Agrego el código que se uso para hallar la información requerida.
+Agrego el código que se usó para hallar la información requerida.
